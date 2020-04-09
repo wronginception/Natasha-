@@ -1,5 +1,6 @@
 body {
     background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/54136wide.jpg");
+    background-repeat: repeat;
     font-family:arial;
     color:deeppink;  
     font-size: 14px;
