@@ -2,7 +2,7 @@ body {
     background-image: url("https://wallpaperstock.net/wallpapers/thumbs1/54136wide.jpg");
     background-repeat: repeat;
     font-family:arial;
-    color:deeppink;  
+    color:yellow;  
     font-size: 14px;
   }
 
@@ -25,31 +25,33 @@ body {
 
   h2 {
     font-size: 30px;
-    text-align: center;
+    text-align: left;
+    color:deeppink;    
   }
 
 .box1{
-width: auto;
-height: 500px;
-float:left;
-margin-right: 40px;
+  width: auto;
+  height: 500px;
+  float:left;
+  margin-right: 40px;
 }
 .box2{
-width: 600px;
-height: 100%;
-padding-left: 15px;
-padding-bottom: 15px;
-float: left;
-background-color: black;
+  width: 600px;
+  height: 100%;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  float: left;
+  background-color: black;
 opacity:90%;
-
 }
+
 .box3 {
-width: 300px;
-height:100%;
-float: left;
-background-color:black;
-opacity:90%;
-padding-left: 30px;
-padding-top:30px;
-padding-bottom: 15px;
+  width: 300px;
+  height:100%;
+  float: left;
+  background-color:black;
+  opacity:90%;
+  padding-left: 30px;
+  padding-top:30px;
+  padding-bottom: 15px;
+}
